@@ -5,7 +5,6 @@ source /opt/buildpiper/shell-functions/log-functions.sh
 source /opt/buildpiper/shell-functions/str-functions.sh
 source /opt/buildpiper/shell-functions/file-functions.sh
 source /opt/buildpiper/shell-functions/aws-functions.sh
-source /opt/buildpiper/shell-functions/getDataFile.sh
 
 git config --global --add safe.directory "$(pwd)"
 
